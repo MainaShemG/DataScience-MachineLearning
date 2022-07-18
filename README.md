@@ -1,2 +1,2 @@
 # python--data-science
-These are python short codes that I'm writing as i learn the language
+TThese are the notebooks that i have written while learning machine learning.
